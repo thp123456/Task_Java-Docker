@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "version",
+    "type": "java.lang.String",
+    "description": "A description for 'version'"
+  },
+  {
+    "name": "services.db.image",
+    "type": "java.lang.String",
+    "description": "A description for 'services.db.image'"
+  },
+  {
+    "name": "services.db.environment.MYSQL_-rOOT_-pASSWORD",
+    "type": "java.lang.String",
+    "description": "A description for 'services.db.environment.MYSQL_-rOOT_-pASSWORD'"
+  }
+]}
